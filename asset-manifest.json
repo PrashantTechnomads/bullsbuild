@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.141f8c9d.css",
-    "main.js": "/static/js/main.f94d189b.js",
+    "main.css": "/static/css/main.9411b3e2.css",
+    "main.js": "/static/js/main.b9c203c3.js",
     "static/js/787.69859e86.chunk.js": "/static/js/787.69859e86.chunk.js",
     "static/media/TeamTitel.svg": "/static/media/TeamTitel.d54539c60975889c8cb6e312ddfd13ed.svg",
     "static/media/ContactGroup.svg": "/static/media/ContactGroup.2c0ad0654bddb42174ea3f4146608d9e.svg",
-    "static/media/aboutgroup.svg": "/static/media/aboutgroup.3d144aeb6093224f2ea0b9283f32aace.svg",
     "static/media/bullandbears-bg.png": "/static/media/bullandbears-bg.0e21ab0be86bcd8a4b1d.png",
     "static/media/7.svg": "/static/media/7.1aa24a5e323557b7d145667a2c513a64.svg",
     "static/media/contsct.svg": "/static/media/contsct.a83a5ce9da98efedfa8e54899e7c7f6f.svg",
@@ -37,21 +36,20 @@
     "static/media/why-nft-two.png": "/static/media/why-nft-two.b4d26dea41afa335d8ca.png",
     "static/media/Single.png": "/static/media/Single.669e1ffd7a2309e3722a.png",
     "static/media/singleCollection.png": "/static/media/singleCollection.d79ddfe346ba34c83d79.png",
-    "static/media/singleabout.png": "/static/media/singleabout.00652163d8f3293b56c7.png",
     "static/media/FooterSingle.png": "/static/media/FooterSingle.f8e49b8e2c6783cec8f3.png",
     "static/media/a.png": "/static/media/a.9e9a9e021678d4b1e611.png",
     "static/media/singleRoad.png": "/static/media/singleRoad.4801dfbbffe62e694fe3.png",
-    "static/media/Mask group (1).png": "/static/media/Mask group (1).6ba7886d082cfeb013e0.png",
-    "static/media/Mask group.png": "/static/media/Mask group.3e1f934580bd343fdbdb.png",
     "static/media/d.png": "/static/media/d.7949b16796b090b6a0ee.png",
     "static/media/about-nft-four.png": "/static/media/about-nft-four.577d14c6d4e14b2dd0fa.png",
     "static/media/about-nft-three.png": "/static/media/about-nft-three.e6f65c05e69860588fd9.png",
     "static/media/about-nft-one.png": "/static/media/about-nft-one.e7a70398393a951bbee8.png",
+    "static/media/coll.png": "/static/media/coll.1e2d3dc7fefbd57d6366.png",
     "static/media/about-nft-two.png": "/static/media/about-nft-two.4acef709b2c683af113f.png",
     "static/media/128.png": "/static/media/128.973c4572aaa8dca18cfe.png",
     "static/media/167.png": "/static/media/167.edbcb026834a8700686e.png",
     "static/media/134.png": "/static/media/134.573dd5600cc99cab9abd.png",
     "static/media/173.png": "/static/media/173.5b692e7da3d5e1c49547.png",
+    "static/media/coll_2.png": "/static/media/coll_2.df51247aa717dab3e70a.png",
     "static/media/b.png": "/static/media/b.22d4e225619778d292fd.png",
     "static/media/151.png": "/static/media/151.97e435e7ca73de4309ed.png",
     "static/media/130.png": "/static/media/130.1f5c0f01155e51a87e03.png",
@@ -62,7 +60,6 @@
     "static/media/map .svg": "/static/media/map .2aed5c62cc3d985c56e63a1980747768.svg",
     "static/media/StoryBg.png": "/static/media/StoryBg.8ea5f87619a24c7b233e.png",
     "static/media/background-with-star.png": "/static/media/background-with-star.5b70805a26962e78584a.png",
-    "static/media/sliderBg-2.png": "/static/media/sliderBg-2.b4778d6eac46b3ba35c5.png",
     "static/media/center-frame.png": "/static/media/center-frame.9d5a52a9c394e7f9324e.png",
     "static/media/terxtarea.png": "/static/media/terxtarea.b171cafb0552531f91f1.png",
     "static/media/checkerBg.svg": "/static/media/checkerBg.510535d0da7bffa016a8bbd1317b637a.svg",
@@ -71,12 +68,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.141f8c9d.css.map": "/static/css/main.141f8c9d.css.map",
-    "main.f94d189b.js.map": "/static/js/main.f94d189b.js.map",
+    "main.9411b3e2.css.map": "/static/css/main.9411b3e2.css.map",
+    "main.b9c203c3.js.map": "/static/js/main.b9c203c3.js.map",
     "787.69859e86.chunk.js.map": "/static/js/787.69859e86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.141f8c9d.css",
-    "static/js/main.f94d189b.js"
+    "static/css/main.9411b3e2.css",
+    "static/js/main.b9c203c3.js"
   ]
 }
