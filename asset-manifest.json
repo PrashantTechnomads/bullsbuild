@@ -1,13 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.9411b3e2.css",
-    "main.js": "/static/js/main.5086d74e.js",
+    "main.css": "/static/css/main.ae643794.css",
+    "main.js": "/static/js/main.6f1848e4.js",
     "static/js/787.69859e86.chunk.js": "/static/js/787.69859e86.chunk.js",
     "static/media/TeamTitel.svg": "/static/media/TeamTitel.d54539c60975889c8cb6e312ddfd13ed.svg",
-    "static/media/ContactGroup.svg": "/static/media/ContactGroup.2c0ad0654bddb42174ea3f4146608d9e.svg",
     "static/media/bullandbears-bg.png": "/static/media/bullandbears-bg.0e21ab0be86bcd8a4b1d.png",
     "static/media/7.svg": "/static/media/7.1aa24a5e323557b7d145667a2c513a64.svg",
-    "static/media/contsct.svg": "/static/media/contsct.a83a5ce9da98efedfa8e54899e7c7f6f.svg",
     "static/media/9.svg": "/static/media/9.4924283add74c830c3b9dc71a0593d0a.svg",
     "static/media/8.svg": "/static/media/8.5f9d4b1ab047a16e6233c20e799e7d6a.svg",
     "static/media/14.svg": "/static/media/14.d5ff2d6ac36e18671b2f9fc0cbfe5909.svg",
@@ -53,9 +51,6 @@
     "static/media/130.png": "/static/media/130.1f5c0f01155e51a87e03.png",
     "static/media/n.png": "/static/media/n.c97812eb08dbfb6348c8.png",
     "static/media/logo_three.png": "/static/media/logo_three.3fba6901489f5d3617ec.png",
-    "static/media/telephone.svg": "/static/media/telephone.1b5c1363ffddeda54854e84c0db235b1.svg",
-    "static/media/email .svg": "/static/media/email .49b63f074f3a2aed729a6d258befde69.svg",
-    "static/media/map .svg": "/static/media/map .2aed5c62cc3d985c56e63a1980747768.svg",
     "static/media/StoryBg.png": "/static/media/StoryBg.8ea5f87619a24c7b233e.png",
     "static/media/background-with-star.png": "/static/media/background-with-star.5b70805a26962e78584a.png",
     "static/media/center-frame.png": "/static/media/center-frame.9d5a52a9c394e7f9324e.png",
@@ -66,12 +61,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.9411b3e2.css.map": "/static/css/main.9411b3e2.css.map",
-    "main.5086d74e.js.map": "/static/js/main.5086d74e.js.map",
+    "main.ae643794.css.map": "/static/css/main.ae643794.css.map",
+    "main.6f1848e4.js.map": "/static/js/main.6f1848e4.js.map",
     "787.69859e86.chunk.js.map": "/static/js/787.69859e86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9411b3e2.css",
-    "static/js/main.5086d74e.js"
+    "static/css/main.ae643794.css",
+    "static/js/main.6f1848e4.js"
   ]
 }
