@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae643794.css",
-    "main.js": "/static/js/main.6f1848e4.js",
+    "main.css": "/static/css/main.38ef2082.css",
+    "main.js": "/static/js/main.b3478609.js",
     "static/js/787.69859e86.chunk.js": "/static/js/787.69859e86.chunk.js",
     "static/media/TeamTitel.svg": "/static/media/TeamTitel.d54539c60975889c8cb6e312ddfd13ed.svg",
     "static/media/bullandbears-bg.png": "/static/media/bullandbears-bg.0e21ab0be86bcd8a4b1d.png",
@@ -53,6 +53,7 @@
     "static/media/logo_three.png": "/static/media/logo_three.3fba6901489f5d3617ec.png",
     "static/media/StoryBg.png": "/static/media/StoryBg.8ea5f87619a24c7b233e.png",
     "static/media/background-with-star.png": "/static/media/background-with-star.5b70805a26962e78584a.png",
+    "static/media/succ.png": "/static/media/succ.4dbad2a10f068b04f267.png",
     "static/media/center-frame.png": "/static/media/center-frame.9d5a52a9c394e7f9324e.png",
     "static/media/terxtarea.png": "/static/media/terxtarea.b171cafb0552531f91f1.png",
     "static/media/checkerBg.svg": "/static/media/checkerBg.510535d0da7bffa016a8bbd1317b637a.svg",
@@ -61,12 +62,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.ae643794.css.map": "/static/css/main.ae643794.css.map",
-    "main.6f1848e4.js.map": "/static/js/main.6f1848e4.js.map",
+    "main.38ef2082.css.map": "/static/css/main.38ef2082.css.map",
+    "main.b3478609.js.map": "/static/js/main.b3478609.js.map",
     "787.69859e86.chunk.js.map": "/static/js/787.69859e86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae643794.css",
-    "static/js/main.6f1848e4.js"
+    "static/css/main.38ef2082.css",
+    "static/js/main.b3478609.js"
   ]
 }
